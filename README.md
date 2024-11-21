@@ -1,6 +1,5 @@
 [<img src="https://github.com/cdrAbhi/cdrAbhi/blob/main/intro.gif?raw=true" alt="👋 Hi there! I'm cdrAbhi" title="👋 Hi there! I'm cdrAbhi"/>](https://www.linkedin.com/in/abhishek-kumar-2746b8251/)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=cdrAbhi)
 
 **cdrAbhi/cdrAbhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
