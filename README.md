@@ -1,8 +1,8 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Abhishek Kumar(111|nd Li)|https://www.linkedin.com/in/abhishek-kumar-2746b8251/)" title="👋 Hi there! I'm (Abhishek(111|nd Li)|https://www.linkedin.com/in/abhishek-kumar-2746b8251/)"/>](https://www.linkedin.com/in/abhishek-kumar-2746b8251//)
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=Raymo111.Raymo111&color=00cf00)
 <!--
-**Raymo111/Raymo111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cdrAbhi/cdrAbhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 		</td>
 	</tr>
 </table>
--->
+--> privat
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
-- 💼 𝙿𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚊𝚝 [<img src="https://github.com/user-attachments/assets/c47ece6e-0c78-42dc-802b-341bc8c02a14" height="30em" align="center" alt="Meta" title="Meta"/>](https://github.com/facebook)
+- 💼 DevOps 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚊𝚝 [<img src="https://github.com/user-attachments/assets/c47ece6e-0c78-42dc-802b-341bc8c02a14" height="30em" align="center" alt="Edujobs private limited" title="Edujob"/>](https://github.com/facebook)
 - 💜 [𝙾𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎](https://github.com/CharaChorder) 𝚊𝚝 [CharaChorder <img src="https://avatars.githubusercontent.com/u/103693671?s=200&v=4" height="30em" align="center" alt="CharaChorder Logo" title="CharaChorder Logo"/>](https://CharaChorder.com)
 - 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 𝚆𝚊𝚝𝚎𝚛𝚕𝚘𝚘, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸𝟺
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 𝚘𝚛 𝚘𝚗 𝚝𝚑𝚎 [𝙰𝚄𝚁](https://aur.archlinux.org/packages/?SeB=M&K=Raymo111)
