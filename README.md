@@ -1,11 +1,10 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm cdrAbhi" title="👋 Hi there! I'm cdrAbhi"/>](https://www.linkedin.com/in/abhishek-kumar-2746b8251/)
+[<img src="https://github.com/cdrAbhi/cdrAbhi/blob/main/intro.gif?raw=true" alt="👋 Hi there! I'm cdrAbhi" title="👋 Hi there! I'm cdrAbhi"/>](https://www.linkedin.com/in/abhishek-kumar-2746b8251/)
 
 # Hi there, I'm **cdrAbhi**  
 ## Also known as **Abhishek Kumar**  
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhishek-kumar-2746b8251/)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?style=for
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=cdrAbhi)
 
 **cdrAbhi/cdrAbhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
