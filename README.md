@@ -42,23 +42,23 @@
 ### Languages and Tools:
 
 
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com]/cdrAbhi/cdrAbhi/main/Tools_icons/linux.png" />]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/shell.jpg" />]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/git.png" />]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/github.png" />]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/maven.jpg" />]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/sonarqube.png" />]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/jenkins.png" />]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/Ansible.png" />]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/aws.png" />]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/docker.png" />]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/grafana.png" />]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/helm.png" />]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/jfrog.png" />][
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/kubernetes.png" />]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/nexus.png" />]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/prometheus.png" />]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/teraform.png" />]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com]/cdrAbhi/cdrAbhi/main/Tools_icons/linux.png" />][Linux]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/shell.jpg" />][Shell]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/git.png" />][Git]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/github.png" />][Github]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/maven.jpg" />][Maven]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/sonarqube.png" />][Sonarqube]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/jenkins.png" />][Jenkins]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/Ansible.png" />][Ansible]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/aws.png" />][AWS]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/docker.png" />][Docker]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/grafana.png" />][Grafana]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/helm.png" />][Helm]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/jfrog.png" />][Ifrog]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/kubernetes.png" />][K8S]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/nexus.png" />][Nexus]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/prometheus.png" />][Prometheus]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/teraform.png" />][Terraform]
 
 
 <br />
