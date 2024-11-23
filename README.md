@@ -60,8 +60,7 @@
 [<img align="left" alt="Terraform" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/terraform.png" />][Terraform]
 
 <br />
-
-### References:
+<br />
 
 [Linux]: https://linux.org
 [Shell]: https://www.shell.com
