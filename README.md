@@ -37,7 +37,7 @@
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 
-<br />
+
 
 ### Languages and Tools:
 
@@ -60,7 +60,7 @@
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/prometheus.png" />]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/teraform.png" />]
 
-<br />
+
 
 
 [X]: https://x.com/Abhih21DevOps
