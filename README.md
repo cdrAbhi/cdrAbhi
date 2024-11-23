@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 --> privat
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
-- 💼 DevOps 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚊𝚝 [<img src="https://www.bing.com/images/search?view=detailV2&ccid=u38OAVgO&id=F0F3919EB8739A7ADBF5F1DABE0BDA172632F83F&thid=OIP.u38OAVgOH8SNn2qQDx17YgAAAA&mediaurl=https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4D0BAQEcx4hBvSM8tw%2Fcompany-logo_200_200%2F0%2F1519866060743%3Fe%3D2147483647%26v%3Dbeta%26t%3Daa1tb6L2e8Y6pOeiLLoopXeZoOShCFgSatOBtG0GpeY&exph=200&expw=200&q=Edujobs+private+limited+source+image&form=IRPRST&ck=14DABFCABF6C8E851505772F85EA2EF7&selectedindex=0&itb=0&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_XNQCDsyG*cp_DFB6318C55668AF0754E19F62A9B636B*mid_A3E339343DC017F97E13D81A475CCBA49FC78C6A*thid_OIP.XNQCDsyGQ!_cUv23Vw3lSbgHaHa&vt=0&sim=11&iss=VSI" height="30em" align="center" alt="Edujobs private limited" title="Edujob"/>](https://github.com/Edujobs private limited)
+- 💼 DevOps 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚊𝚝 [Edujobs Private limited](https://github.com/Edujobs private limited)
 - 💜 [𝙾𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎](https://github.com/CharaChorder) 𝚊𝚝 [CharaChorder <img src="https://avatars.githubusercontent.com/u/103693671?s=200&v=4" height="30em" align="center" alt="CharaChorder Logo" title="CharaChorder Logo"/>](https://CharaChorder.com)
 - 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 Electrical Engineering 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 Burdwan, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸023
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 𝚘𝚛 𝚘𝚗 𝚝𝚑𝚎 [𝙰𝚄𝚁](https://aur.archlinux.org/packages/?SeB=M&K=Raymo111)
