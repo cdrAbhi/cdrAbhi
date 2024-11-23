@@ -41,7 +41,7 @@
 
 ### Languages and Tools:
 
-
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com]/cdrAbhi/cdrAbhi/main/Tools_icons/linux.png" />][Linux]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/shell.jpg" />][Shell]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/git.png" />][Git]
