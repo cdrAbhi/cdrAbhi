@@ -39,7 +39,7 @@
 
 <br />
 
-### Languages and Tools:
+## Language and Tools:
 
 [<img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/linux.png" />][Linux]
 [<img align="left" alt="Shell" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/shell.jpg" />][Shell]
