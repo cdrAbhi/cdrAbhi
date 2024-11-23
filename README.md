@@ -1,5 +1,4 @@
-## Hi there, I'm Abhishek Kumar 👋
-
+## :✨ Hi there, I'm Abhishek Kumar
 ### I'm a Devops engineer with a knack for Automation and a proven track record in maintaining and administering DevOps process.
 - 🔭 I’m currently working on a Creating Devops related tech resourses 
 - 🌱 I’m currently learning everything 🤣
@@ -39,7 +38,7 @@
 
 <br />
 
-## Language and Tools:
+##🛡✨ Language and Tools:
 
 [<img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/linux.png" />][Linux]
 [<img align="left" alt="Shell" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/shell.jpg" />][Shell]
