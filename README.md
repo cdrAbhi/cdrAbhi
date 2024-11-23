@@ -61,7 +61,6 @@
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/teraform.png" />]
 
 <br />
-<br />
 
 
 [X]: https://x.com/Abhih21DevOps
