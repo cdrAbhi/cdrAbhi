@@ -41,26 +41,45 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com]/cdrAbhi/cdrAbhi/main/Tools_icons/linux.png" />][Linux]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/shell.jpg" />][Shell]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/git.png" />][Git]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/github.png" />][Github]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/maven.jpg" />][Maven]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/sonarqube.png" />][Sonarqube]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/jenkins.png" />][Jenkins]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/Ansible.png" />][Ansible]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/aws.png" />][AWS]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/docker.png" />][Docker]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/grafana.png" />][Grafana]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/helm.png" />][Helm]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/jfrog.png" />][Ifrog]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/kubernetes.png" />][K8S]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/nexus.png" />][Nexus]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/prometheus.png" />][Prometheus]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/teraform.png" />][Terraform]
-
+[<img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/linux.png" />][Linux]
+[<img align="left" alt="Shell" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/shell.jpg" />][Shell]
+[<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/git.png" />][Git]
+[<img align="left" alt="Github" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/github.png" />][Github]
+[<img align="left" alt="Maven" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/maven.jpg" />][Maven]
+[<img align="left" alt="Sonarqube" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/sonarqube.png" />][Sonarqube]
+[<img align="left" alt="Jenkins" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/jenkins.png" />][Jenkins]
+[<img align="left" alt="Ansible" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/Ansible.png" />][Ansible]
+[<img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/aws.png" />][AWS]
+[<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/docker.png" />][Docker]
+[<img align="left" alt="Grafana" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/grafana.png" />][Grafana]
+[<img align="left" alt="Helm" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/helm.png" />][Helm]
+[<img align="left" alt="JFrog" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/jfrog.png" />][JFrog]
+[<img align="left" alt="Kubernetes" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/kubernetes.png" />][K8S]
+[<img align="left" alt="Nexus" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/nexus.png" />][Nexus]
+[<img align="left" alt="Prometheus" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/prometheus.png" />][Prometheus]
+[<img align="left" alt="Terraform" width="30px" src="https://raw.githubusercontent.com/cdrAbhi/cdrAbhi/main/Tools_icons/terraform.png" />][Terraform]
 
 <br />
+
+### References:
+
+[Linux]: https://linux.org
+[Shell]: https://www.shell.com
+[Git]: https://git-scm.com
+[Github]: https://github.com
+[Maven]: https://maven.apache.org
+[Sonarqube]: https://www.sonarqube.org
+[Jenkins]: https://www.jenkins.io
+[Ansible]: https://www.ansible.com
+[AWS]: https://aws.amazon.com
+[Docker]: https://www.docker.com
+[Grafana]: https://grafana.com
+[Helm]: https://helm.sh
+[JFrog]: https://jfrog.com
+[K8S]: https://kubernetes.io
+[Nexus]: https://www.sonatype.com/products/repository-oss
+[Prometheus]: https://prometheus.io
+[Terraform]: https://www.terraform.io
 
 
 [X]: https://x.com/Abhih21DevOps
